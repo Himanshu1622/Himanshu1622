@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **himu1622@gmail.com**
 
-- 📄 Know about my experiences [demolink](demolink)
+- 📄 Know about my experiences https://himanshu1622.github.io/Portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
