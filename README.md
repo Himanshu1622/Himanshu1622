@@ -21,7 +21,7 @@ Performance Marketing | Meta Ads | Google Ads | Lead Generation | React Develope
 - 🌱 Currently learning **Node.js, Express.js & Docker**
 - 🎨 Also work on **Figma UI Designs & Responsive Frontend Development**
 - 📫 Reach me at **himanshu.vrma16@gmail.com**
-- 🌐 Portfolio: **https://himanshu1622.github.io/Portfolio/**
+- 🌐 Portfolio: **https://himanshu-verma.info/**
 
 ---
 
