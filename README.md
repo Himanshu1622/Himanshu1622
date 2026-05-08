@@ -5,7 +5,7 @@
 Performance Marketing | Meta Ads | Google Ads | Lead Generation | React Developer
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshu1622&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu1622" />
 </p>
 
