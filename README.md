@@ -25,27 +25,6 @@ Performance Marketing | Meta Ads | Google Ads | Lead Generation | React Develope
 
 ---
 
-## 💼 Work Experience
-
-### Digital Marketing | Casa Harmony Real Estate, Dubai, UAE
-📅 Jan 2026 – March 2026
-
-- Managed Meta Ads campaigns targeting property buyers across UAE, India, UK & USA
-- Improved lead quality and reduced CPL using audience targeting & retargeting strategies
-- Analyzed campaign data using Google Analytics & Meta Ads Manager
-- Designed ad creatives and social media graphics in Figma
-
-### Digital Marketing Executive | Happy Buying, India
-📅 Nov 2022 – Jan 2026
-
-- Managed lead generation campaigns for real estate projects
-- Executed WhatsApp & Email Marketing campaigns
-- Worked on CRM lead tracking and campaign optimization
-- Performed Off-Page SEO activities
-- Converted Figma designs into responsive frontend UI
-
----
-
 ## 🛠️ Skills & Tools
 
 ### 📢 Digital Marketing
