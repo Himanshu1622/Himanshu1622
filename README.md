@@ -15,7 +15,7 @@ Performance Marketing • Meta Ads • Google Ads • Amazon Ads • React • N
 ## 🚀 About Me
 
 - 🚀 Digital Marketing Specialist & Web Developer
-- 💼 **3.4+ years of professional experience**
+- 💼 **4+ years of professional experience**
 - 📢 Managing and optimizing **Meta Ads, Google Ads & Amazon Ads** campaigns
 - 💻 Building modern web applications using **React.js, Next.js, Python (Django) & Tailwind CSS**
 - 📈 Specialized in **Performance Marketing, Lead Generation, Conversion Tracking & ROAS Optimization**
