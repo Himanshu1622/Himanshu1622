@@ -12,7 +12,7 @@ Performance Marketing • Meta Ads • Google Ads • Amazon Ads • React • N
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🚀 Digital Marketing Specialist & Web Developer
 - 💼 **3.4+ years of professional experience**
@@ -27,9 +27,9 @@ Performance Marketing • Meta Ads • Google Ads • Amazon Ads • React • N
 
 ---
 
-# 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
-## 📢 Digital Marketing
+### 📢 Digital Marketing
 
 <p align="left">
   <img src="https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Meta Ads"/>
@@ -39,7 +39,7 @@ Performance Marketing • Meta Ads • Google Ads • Amazon Ads • React • N
   <img src="https://img.shields.io/badge/WhatsApp%20Marketing-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Marketing"/>
 </p>
 
-## 💻 Development
+### 💻 Development
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
@@ -54,7 +54,7 @@ Performance Marketing • Meta Ads • Google Ads • Amazon Ads • React • N
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
 </p>
 
-## 🎨 Design & Analytics
+### 🎨 Design & Analytics
 
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -65,7 +65,7 @@ Performance Marketing • Meta Ads • Google Ads • Amazon Ads • React • N
 
 ---
 
-# 🌍 Markets Worked With
+## 🌍 Markets Worked With
 
 - 🇦🇪 United Arab Emirates (UAE)
 - 🇮🇳 India
@@ -74,7 +74,7 @@ Performance Marketing • Meta Ads • Google Ads • Amazon Ads • React • N
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanshu1622&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -90,7 +90,7 @@ Performance Marketing • Meta Ads • Google Ads • Amazon Ads • React • N
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/himanshu-verma-3b6a34254/" target="_blank">
@@ -112,6 +112,6 @@ Performance Marketing • Meta Ads • Google Ads • Amazon Ads • React • N
 
 ---
 
-# 💡 Quote
+## 💡 Quote
 
 > **"Building scalable web applications and data-driven marketing campaigns that deliver measurable business growth."**
