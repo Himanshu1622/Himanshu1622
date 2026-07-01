@@ -57,10 +57,10 @@ Performance Marketing • Meta Ads • Google Ads • Amazon Ads • React • N
 ## 🎨 Design & Analytics
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/google_tag_manager/google_tag_manager-icon.svg" alt="Google Tag Manager" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white" />
 </p>
 
 ---
